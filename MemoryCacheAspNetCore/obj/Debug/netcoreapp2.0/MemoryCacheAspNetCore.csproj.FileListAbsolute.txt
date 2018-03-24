@@ -1,0 +1,10 @@
+D:\WORK\R&D\MemoryCacheAspNetCore\MemoryCacheAspNetCore\bin\Debug\netcoreapp2.0\MemoryCacheAspNetCore.deps.json
+D:\WORK\R&D\MemoryCacheAspNetCore\MemoryCacheAspNetCore\bin\Debug\netcoreapp2.0\MemoryCacheAspNetCore.runtimeconfig.json
+D:\WORK\R&D\MemoryCacheAspNetCore\MemoryCacheAspNetCore\bin\Debug\netcoreapp2.0\MemoryCacheAspNetCore.runtimeconfig.dev.json
+D:\WORK\R&D\MemoryCacheAspNetCore\MemoryCacheAspNetCore\bin\Debug\netcoreapp2.0\MemoryCacheAspNetCore.dll
+D:\WORK\R&D\MemoryCacheAspNetCore\MemoryCacheAspNetCore\bin\Debug\netcoreapp2.0\MemoryCacheAspNetCore.pdb
+D:\WORK\R&D\MemoryCacheAspNetCore\MemoryCacheAspNetCore\obj\Debug\netcoreapp2.0\MemoryCacheAspNetCore.csproj.CoreCompileInputs.cache
+D:\WORK\R&D\MemoryCacheAspNetCore\MemoryCacheAspNetCore\obj\Debug\netcoreapp2.0\MemoryCacheAspNetCore.AssemblyInfoInputs.cache
+D:\WORK\R&D\MemoryCacheAspNetCore\MemoryCacheAspNetCore\obj\Debug\netcoreapp2.0\MemoryCacheAspNetCore.AssemblyInfo.cs
+D:\WORK\R&D\MemoryCacheAspNetCore\MemoryCacheAspNetCore\obj\Debug\netcoreapp2.0\MemoryCacheAspNetCore.dll
+D:\WORK\R&D\MemoryCacheAspNetCore\MemoryCacheAspNetCore\obj\Debug\netcoreapp2.0\MemoryCacheAspNetCore.pdb
